@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm ADERA KARUME
 
-A python developer | software development engineer in test(SDET) | Quality Assurance Engineer,
-Im also a technical mentor @Lux_Academy.
+A python developer |Technical mentor| software development engineer in test(SDET) | Quality Assurance Engineer.
 
 - 🔭 I’m currently working on learning Fundamentals of software testing and Quality Assurance 
 - 🌱 I’m currently learning kubernetes | Jenkins | Selenium | Appium | Docker | Postman/swagger | CI/CD pipeline...
